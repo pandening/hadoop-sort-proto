@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="yarn">
+    <CLASSES>
+      <root url="file://$USER_HOME$/hujian-hadoop/share/hadoop/yarn" />
+      <root url="file://$USER_HOME$/hujian-hadoop/share/hadoop/hdfs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/hujian-hadoop/share/hadoop/hdfs/jdiff" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/hujian-hadoop/share/hadoop/hdfs" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/hujian-hadoop/share/hadoop/yarn" recursive="false" />
+  </library>
+</component>
